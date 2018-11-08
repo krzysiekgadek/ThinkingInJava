@@ -1,0 +1,27 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/chmura/Prywatne/Project/thinkingInJava/src/Inne/Osoba.java" timestamp="1541671929208" />
+      <file name="D:/chmura/Prywatne/Project/thinkingInJava/src/Inne/Person.java" timestamp="1541671952738">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
